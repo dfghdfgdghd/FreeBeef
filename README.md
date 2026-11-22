@@ -1,4 +1,5 @@
-# Freebeef : Freebuff but unlimited hours , built in jailbreak , auto quota account switcher , rapid account switcher and setter.
+# Freebeef 
+# Freebuff but unlimited hours , built in jailbreak , auto quota account switcher , rapid account switcher and setter.
 
 English | [简体中文](./README.zh-CN.md)
 
